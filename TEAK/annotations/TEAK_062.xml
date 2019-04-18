@@ -365,9 +365,9 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>193</xmin>
-            <ymin>346</ymin>
-            <xmax>233</xmax>
+            <xmin>199</xmin>
+            <ymin>339</ymin>
+            <xmax>244</xmax>
             <ymax>379</ymax>
         </bndbox>
     </object>
